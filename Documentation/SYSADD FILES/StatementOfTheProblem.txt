@@ -2,3 +2,7 @@ Statement of the problem
 1. Excessive usage of paper.
 2. Delayed passing of grades.
 3. 
+
+Objectives
+1. Mitigate the excessive usage of paper that results into taking up large spaces.
+2. Hasten the process of passing of grades from subject teacher to class adviser to 
