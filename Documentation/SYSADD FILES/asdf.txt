@@ -1,0 +1,16 @@
+1.  Use Case Diagram
+2.  Activity Diagram
+3.  Sequence Diagram
+4.  Object Diagram
+5.  Class Diagram
+6.  Communication Diagram
+7.  State Diagram
+8.  Timing Diagram
+9.  Component Diagram
+10. Deployment Diagram
+11. Package Diagram
+
+
+Timing Diagram(concise) http://www.agilemodeling.com/artifacts/timingDiagram.htm
+Component Diagram http://www.agilemodeling.com/artifacts/componentDiagram.htm
+Deployment Diagram http://www.agilemodeling.com/artifacts/deploymentDiagram.htm
